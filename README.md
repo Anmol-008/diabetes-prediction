@@ -1,30 +1,23 @@
 # Diabetes Prediction using Machine Learning
 
 ## 📌 Project Overview
-This project predicts whether a person has diabetes based on medical parameters using a machine learning model.
+This project predicts whether a person is likely to have diabetes based on medical and health-related parameters.  
+A machine learning classification model is trained on historical patient data and used to make predictions.
+
+The project demonstrates the complete machine learning workflow:
+- Data loading
+- Data preprocessing
+- Model training
+- Model evaluation
+- Prediction using a saved model
+
+---
 
 ## 📂 Dataset
-- File: `diabetes.csv`
-- Contains health-related features such as glucose level, BMI, age, etc.
-
-## 🧠 Model Used
-- Machine Learning classification model
-- Model is trained and saved as `model.pkl`
-
-## 🛠️ Technologies Used
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
-- Jupyter Notebook
-
-## 🚀 How to Run the Project
-1. Clone the repository
-2. Open `diabetes_prediction.ipynb`
-3. Run all cells in order
-
-## 📊 Output
-The model predicts whether the patient is diabetic or not based on input features.
-
-## 👤 Author
-Anmol Agrawal
+- **File:** `diabetes.csv`
+- The dataset contains medical attributes such as:
+  - Glucose level
+  - Blood pressure
+  - BMI
+  - Age
+  - Other
