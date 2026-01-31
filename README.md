@@ -70,6 +70,7 @@ diabetes-prediction/
 
 ### 1️⃣ Clone the Repository
 ```bash
+
 git clone https://github.com/your-username/diabetes-prediction.git
 cd diabetes-prediction
 2️⃣ Install Dependencies
@@ -85,8 +86,12 @@ jupyter notebook
 Open diabetes_prediction.ipynb
 
 Run all cells in sequence
+```
 
-📊 Results
+
+---
+
+## 📊 Results
 
 The model predicts whether a patient is Diabetic or Non-Diabetic
 
@@ -94,7 +99,7 @@ Model performance is evaluated using standard classification metrics
 
 Visualizations help understand feature importance and data distribution
 
-🔍 Key Learnings
+## 🔍 Key Learnings
 
 Data preprocessing and feature handling
 
@@ -104,7 +109,7 @@ Saving and loading trained ML models
 
 Applying machine learning to healthcare data
 
-📌 Use Cases
+## 📌 Use Cases
 
 Academic machine learning project
 
@@ -112,8 +117,7 @@ Healthcare data analysis example
 
 Resume and internship portfolio project
 
-👤 Author
+## 👤 Author
 
 Anmol Agrawal
-B.S. in Data Science and Applications – IIT Madras
-B.Tech in Computer Science
+
