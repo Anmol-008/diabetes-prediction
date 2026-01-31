@@ -38,6 +38,7 @@ To build a machine learning model that can:
   - `1` → Diabetic
 
 The trained model is saved as:
+model.pkl
 
 This allows the model to be reused for predictions without retraining.
 
