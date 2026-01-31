@@ -68,9 +68,8 @@ diabetes-prediction/
 
 ## 🚀 How to Run the Project
 
-### 1️⃣ Clone the Repository
 ```bash
-
+1️⃣ Clone the Repository
 git clone https://github.com/your-username/diabetes-prediction.git
 cd diabetes-prediction
 2️⃣ Install Dependencies
