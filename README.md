@@ -140,7 +140,7 @@ diabetes-ml-project/
 
 
 ```bash
-### 1️⃣ Clone Repository
+1️⃣ Clone Repository
 git clone https://github.com/your-username/diabetes-ml-project.git
 cd diabetes-ml-project
 2️⃣ Install Dependencies
@@ -149,23 +149,31 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 Open the notebook and run all cells.
-
+---
 📊 Key Insights
 Glucose is the strongest predictor of diabetes
 BMI and Age significantly influence outcomes
 Data preprocessing plays a critical role in model performance
+
+---
+
 🎯 Use Cases
 Healthcare risk prediction
 Academic machine learning project
 Internship portfolio project
 Real-world ML pipeline demonstration
+
+---
+
 🧠 Key Learnings
 Handling real-world messy data
 Feature engineering and preprocessing
 Model comparison and selection
 Hyperparameter tuning using GridSearchCV
 Importance of evaluation metrics beyond accuracy
-👤 Author
 
+---
+
+👤 Author
 Anmol Agrawal
 B.S. Data Science (IIT Madras) | B.Tech CSE
