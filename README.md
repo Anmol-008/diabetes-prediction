@@ -139,14 +139,14 @@ diabetes-ml-project/
 ## 🚀 How to Run the Project
 
 ### 1️⃣ Clone Repository
-```bash```
+```bash
 git clone https://github.com/your-username/diabetes-ml-project.git
 cd diabetes-ml-project
 2️⃣ Install Dependencies
 pip install -r requirements.txt
 3️⃣ Run Notebook
 jupyter notebook
-
+```
 Open the notebook and run all cells.
 
 📊 Key Insights
