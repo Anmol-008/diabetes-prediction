@@ -138,8 +138,9 @@ diabetes-ml-project/
 
 ## 🚀 How to Run the Project
 
-### 1️⃣ Clone Repository
+
 ```bash
+### 1️⃣ Clone Repository
 git clone https://github.com/your-username/diabetes-ml-project.git
 cd diabetes-ml-project
 2️⃣ Install Dependencies
